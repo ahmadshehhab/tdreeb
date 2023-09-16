@@ -1,0 +1,12 @@
+.ic{
+    margin-top: 400px;
+}
+
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.hello{
+    transition: all .5s ease-in-out;
+}
